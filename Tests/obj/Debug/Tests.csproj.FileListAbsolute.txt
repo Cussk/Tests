@@ -1,0 +1,10 @@
+C:\Users\MartyCarr\RiderProjects\Tests\Tests\bin\Debug\Tests.exe
+C:\Users\MartyCarr\RiderProjects\Tests\Tests\bin\Debug\Tests.pdb
+C:\Users\MartyCarr\RiderProjects\Tests\Tests\obj\Debug\Tests.csproj.AssemblyReference.cache
+C:\Users\MartyCarr\RiderProjects\Tests\Tests\obj\Debug\Tests.csproj.SuggestedBindingRedirects.cache
+C:\Users\MartyCarr\RiderProjects\Tests\Tests\obj\Debug\Tests.csproj.CoreCompileInputs.cache
+C:\Users\MartyCarr\RiderProjects\Tests\Tests\obj\Debug\Tests.exe
+C:\Users\MartyCarr\RiderProjects\Tests\Tests\obj\Debug\Tests.pdb
+C:\Users\MartyCarr\RiderProjects\Tests\Tests\bin\Debug\Newtonsoft.Json.dll
+C:\Users\MartyCarr\RiderProjects\Tests\Tests\bin\Debug\Newtonsoft.Json.xml
+C:\Users\MartyCarr\RiderProjects\Tests\Tests\obj\Debug\Tests.csproj.CopyComplete
