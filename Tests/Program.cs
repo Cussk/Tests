@@ -7,18 +7,17 @@ namespace Tests
 {
     internal class Program
     {
+        static string _path = "C:\\Users\\MartyCarr\\RiderProjects\\Tests\\Tests\\ItemList.json";
         public static void Main(string[] args)
         {
+            // make call to item database
             var itemsFromAPI = API.GetAllItems();
             
-            string _pathToJsonFile = "C:\\Users\\MartyCarr\\RiderProjects\\Tests\\Tests\\ItemList.json";
-
-
-            var itemDtos = JsonConvert.DeserializeObject<DtoCollection>(itemsFromAPI);
+            // convert items to models
+            var itemModels = JsonConvert.DeserializeObject<DtoCollection>(itemsFromAPI);
             
-            
-            
-            File.WriteAllText(_pathToJsonFile, itemsFromAPI);
+            // save items locally
+            File.WriteAllText(_path, itemsFromAPI);
             
 
         }
