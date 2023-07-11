@@ -3,7 +3,10 @@ namespace Tests
     public class Item
     {
         public string DisplayName { get; set; }
+        
         public int Id { get; set; }
+
+        public int Rarity { get; set; }
         public int CostToProduce { get; set; }
         public int SalePrice { get; set; }
 

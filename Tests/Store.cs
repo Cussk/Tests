@@ -8,7 +8,7 @@ namespace Tests
     public class Store
     {
         List<Item> _storeItems;
-        
+        List<ItemSlot> _itemSlots;
         
         public void InitStoreWithItems(List<Item> items)
         {
