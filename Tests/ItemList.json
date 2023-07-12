@@ -1,28 +1,30 @@
-{
-  "items": [
-    {
-      "DisplayName": "Axe",
-      "Id": 0,
-      "CostToProduce": 3,
-      "SalePrice": 9
-    },
-    {
-      "DisplayName": "Leather Pouch",
-      "Id": 0,
-      "CostToProduce": 1,
-      "SalePrice": 6
-    },
-    {
-      "DisplayName": "Ruby",
-      "Id": 0,
-      "CostToProduce": 20,
-      "SalePrice": 100
-    },
-    {
-      "DisplayName": "Deer Hide",
-      "Id": 0,
-      "CostToProduce": 15,
-      "SalePrice": 30
-    }
-  ]
-}
+[
+  {
+    "DisplayName": "Axe",
+    "Id": 0,
+    "Rarity": 0,
+    "CostToProduce": 3,
+    "SalePrice": 9
+  },
+  {
+    "DisplayName": "Leather Pouch",
+    "Id": 0,
+    "Rarity": 0,
+    "CostToProduce": 1,
+    "SalePrice": 6
+  },
+  {
+    "DisplayName": "Ruby",
+    "Id": 0,
+    "Rarity": 0,
+    "CostToProduce": 20,
+    "SalePrice": 100
+  },
+  {
+    "DisplayName": "Deer Hide",
+    "Id": 0,
+    "Rarity": 0,
+    "CostToProduce": 15,
+    "SalePrice": 30
+  }
+]

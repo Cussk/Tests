@@ -8,3 +8,13 @@ C:\Users\MartyCarr\RiderProjects\Tests\Tests\obj\Debug\Tests.pdb
 C:\Users\MartyCarr\RiderProjects\Tests\Tests\bin\Debug\Newtonsoft.Json.dll
 C:\Users\MartyCarr\RiderProjects\Tests\Tests\bin\Debug\Newtonsoft.Json.xml
 C:\Users\MartyCarr\RiderProjects\Tests\Tests\obj\Debug\Tests.csproj.CopyComplete
+C:\Users\cussk\OneDrive\Documents\Unity\Tests\Tests\bin\Debug\Tests.exe
+C:\Users\cussk\OneDrive\Documents\Unity\Tests\Tests\bin\Debug\Tests.pdb
+C:\Users\cussk\OneDrive\Documents\Unity\Tests\Tests\bin\Debug\Newtonsoft.Json.dll
+C:\Users\cussk\OneDrive\Documents\Unity\Tests\Tests\bin\Debug\Newtonsoft.Json.xml
+C:\Users\cussk\OneDrive\Documents\Unity\Tests\Tests\obj\Debug\Tests.csproj.AssemblyReference.cache
+C:\Users\cussk\OneDrive\Documents\Unity\Tests\Tests\obj\Debug\Tests.csproj.SuggestedBindingRedirects.cache
+C:\Users\cussk\OneDrive\Documents\Unity\Tests\Tests\obj\Debug\Tests.csproj.CoreCompileInputs.cache
+C:\Users\cussk\OneDrive\Documents\Unity\Tests\Tests\obj\Debug\Tests.csproj.CopyComplete
+C:\Users\cussk\OneDrive\Documents\Unity\Tests\Tests\obj\Debug\Tests.exe
+C:\Users\cussk\OneDrive\Documents\Unity\Tests\Tests\obj\Debug\Tests.pdb
