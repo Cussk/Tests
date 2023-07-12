@@ -19,7 +19,7 @@ namespace Tests
             // convert items to models
             //var itemModels = JsonConvert.DeserializeObject<DtoCollection>(itemsFromAPI);
 
-            var itemModels = TestItems.TestItemsList();
+            var itemModels = JsonConvert.DeserializeObject<DtoCollection>(localTestItems);
 
             // save items locally
             File.WriteAllText(_path, localTestItems);

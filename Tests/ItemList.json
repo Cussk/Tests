@@ -1,27 +1,27 @@
 [
   {
-    "DisplayName": "Axe",
+    "DisplayName": "Test Axe",
     "Id": 0,
     "Rarity": 0,
     "CostToProduce": 3,
     "SalePrice": 9
   },
   {
-    "DisplayName": "Leather Pouch",
+    "DisplayName": "Test Leather Pouch",
     "Id": 0,
     "Rarity": 0,
     "CostToProduce": 1,
     "SalePrice": 6
   },
   {
-    "DisplayName": "Ruby",
+    "DisplayName": "Test Ruby",
     "Id": 0,
     "Rarity": 0,
     "CostToProduce": 20,
     "SalePrice": 100
   },
   {
-    "DisplayName": "Deer Hide",
+    "DisplayName": "Test Deer Hide",
     "Id": 0,
     "Rarity": 0,
     "CostToProduce": 15,
